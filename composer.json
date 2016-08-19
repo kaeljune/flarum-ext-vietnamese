@@ -15,7 +15,7 @@
     "support": {
         "issues": "https://github.com/kaeljune/flarum-ext-vietnamese/issues",
         "source": "https://github.com/kaeljune/flarum-ext-vietnamese",
-        "forum": "hhttp://www.momjs.com"
+        "forum": "http://www.momjs.com"
     },
     "require": {
         "flarum/core": "^0.1.0-beta.5"
