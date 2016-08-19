@@ -1,0 +1,41 @@
+{
+    "name": "kaeljune/flarum-ext-vietnamese",
+    "type": "flarum-extension",
+    "description": "Vietnam language pack for Flarum.",
+    "homepage": "https://github.com/maelsoucaze/flarum-ext-french",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaeljune",
+            "email": "hiepth9x@gmail.com",
+            "homepage": "http://www.momjs.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/maelsoucaze/flarum-ext-french/issues",
+        "source": "https://github.com/maelsoucaze/flarum-ext-french",
+        "forum": "https://discuss.flarum.org/d/615-french-language-pack"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.5"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Vietnamese",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#fff",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "vi",
+            "title": "Vietnamese"
+        }
+    }
+}
