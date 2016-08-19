@@ -48,7 +48,7 @@ core:
       support_text: "Found a bug? Please report it in our forum, under the <a>Support tag</a>."
       troubleshooting_text: "Having problems? Follow the instructions in the <a>Troubleshooting docs</a>."
       version_text: "Thanks for trying out Flarum! You are running version {version}."
-      welcome_text: "Welcome to Flarum Beta!"
+      welcome_text: "Chào mừng bạn đến với Flarum Beta!"
 
     # These translations are used in the Edit Custom CSS modal dialog.
     edit_css:
